@@ -3,7 +3,7 @@ example use of content negotiation with spring framework
 
 To install run the command
 
-git clone https://github.com/ghacupha/exampleContentManagement.git
+git clone https://github.com/ghacupha/exampleContentNegotiation.git
 
 cd exampleContentManagement
 
