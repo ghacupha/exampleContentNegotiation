@@ -5,7 +5,7 @@ To install run the command
 
 git clone https://github.com/ghacupha/exampleContentNegotiation.git
 
-cd exampleContentManagement
+cd exampleContentNegotiation
 
 Then run the following
 
